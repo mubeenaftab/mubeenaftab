@@ -58,15 +58,8 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="120"
         height="40" />
 </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
-        height="40" />
-</a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+  <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" alt="laravel" width="40" height="40"/> 
 </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
@@ -131,11 +124,14 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
 </a>
 </p>
-📊 GitHub Stats:
-<br/>
-![](https://github-readme-stats.vercel.app/api?username=mubeenaftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mubeenaftab&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubeenaftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-### 🔝 Top Contributed Repo
+
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubeenaftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mubeenaftab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubeenaftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="mubeenaftab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubeenaftab&theme=dark&hide_border=false&" alt="mubeenaftab" /></p>
+
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mubeenaftab&limit=5&theme=dark&combine_all_yearly_contributions=true)
